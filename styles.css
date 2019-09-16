@@ -1,0 +1,70 @@
+
+
+
+#top{
+	background: linear-gradient(60deg, #62e1d7, #e16295);
+}
+
+#middle{
+	background: linear-gradient(60deg,  #9198e5, #e66465);
+}
+
+#middle2{
+	background: linear-gradient(60deg,  #FEF601, #fe9001);
+}
+
+#middle3{
+	background: linear-gradient(60deg,  #46FE83, #46ECFE);
+}
+
+.red-text{
+	color: red;
+}
+
+p{
+	font-family: monospace;
+	font-size: 20px;
+	color: purple;
+	display: block;
+
+}
+
+.thin-red-border{
+	border-color: red;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 30%
+}
+
+.gold-background{
+	background-color: gold;
+}
+
+.thick-silver-border{
+	border-color: silver;
+	border-width: 7px;
+	border-style: solid;
+}
+
+#test{
+	font-family: Lobster; 
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+#img1{
+	width: 20em;
+	height: 20em;
+
+}
+
+#title{
+	font-family: Saira Stencil One;
+	text-align: center;
+}
+
