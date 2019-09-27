@@ -65,12 +65,14 @@ This is all stuff for first section with images and paragraph and links
 	border-top-width: 5px;
 }
 
-#Mathematics li{
-	display: inline;
+#Mathematics{
+	display: inline-block;
+	list-style-type: circle;
 }
 
-#CS li{
-	display: inline;
+#CS {
+	display: inline-block;
+	list-style-type: circle;
 }
 
 #middle3{
