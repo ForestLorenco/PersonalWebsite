@@ -71,6 +71,7 @@ This is all stuff for first section with images and paragraph and links
 }
 
 #CS {
+	vertical-align: top;
 	display: inline-block;
 	list-style-type: circle;
 }
