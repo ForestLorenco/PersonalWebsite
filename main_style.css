@@ -26,8 +26,8 @@
 
 #top{
 	background: linear-gradient(60deg, #FEF601, #fe9001);
-	 padding: 20px;
-	 font-family: monospace;
+	padding: 20px;
+	font-family: monospace;
 }
 /*
 This is all stuff for first section with images and paragraph and links
@@ -59,10 +59,13 @@ This is all stuff for first section with images and paragraph and links
 
 /*Course list styles*/
 #course-list{
+	font-size: 15px;
 	font-family: monospace;
 	border-top-color: #FF5760; 
-	border-top-style: dotted;
+	border-top-style: solid;
 	border-top-width: 5px;
+	text-align: center;
+
 }
 
 #Mathematics{
@@ -101,10 +104,6 @@ This is all stuff for first section with images and paragraph and links
 	border-style: solid;
 }
 
-#test{
-	font-family: Lobster; 
-}
-
 
 
 #img1{
@@ -116,7 +115,8 @@ This is all stuff for first section with images and paragraph and links
 }
 
 #title{
-	/*font-family: Saira Stencil One;*/
+	/*Change, make this better*/
 	text-align: center;
+
 }
 

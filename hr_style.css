@@ -12,6 +12,7 @@
   transition: all 0.3s ease; /* Add transition for hover effects */
   color: white; /* White text color */
   font-size: 18px; /* Increased font size */
+  font-family: monospace;
 }
 
 .icon-bar a:hover {
@@ -19,27 +20,18 @@
 }
 
 .active {
-  background-color: #4CAF50; /* Add an active/current color */
+  background-color: #FF5733; /* Add an active/current color */
 }
 
 #top{
-	background: linear-gradient(60deg, #48D1CC, #800000);
+  background: linear-gradient(60deg, #FEF601, #fe9001);
+  padding: 20px;
+  font-family: monospace;
 }
+
 
 #title{
-	font-size: 60px;
-	color: #4B0082;
-	text-align: center;
-	font-family: Lobster;
+  /*Change, make this better*/
+  text-align: center;
 
-}
-
-.thick-silver-border{
-	border-color: silver;
-	border-width: 10px;
-	border-style: solid;
-}
-
-#middle{
-	background: linear-gradient(60deg,  #46FE83, #46ECFE);
 }
