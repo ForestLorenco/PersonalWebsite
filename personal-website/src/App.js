@@ -1,10 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
+import TaskBar from './TaskBar';
+import Title from './Title';
+import Intro from './Intro';
+import CourseList from './CourseList'
 import './App.css';
 
 class App extends React.Component{
   render(){
-    return (<h1 id="title">Forest Elliott</h1>);
+    return (
+      <body>
+        <TaskBar/>
+        <Title/>
+        <Intro/>
+        <CourseList/>
+      </body>
+    );
   }
 }
 export default App;
